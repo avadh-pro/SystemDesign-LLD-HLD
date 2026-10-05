@@ -6,11 +6,12 @@ Each topic lives on its own branch so you can read one thing at a time.
 | Branch | Topics |
 |---|---|
 | [introduction-to-LLD](../../tree/introduction-to-LLD) | LLD vs HLD, OOP foundations, SOLID principles, UML for interviews, the LLD interview playbook |
+| [design-patterns](../../tree/design-patterns) | Gang of Four patterns by category. Creational: Singleton |
 
 ```bash
 git clone https://github.com/avadh-pro/SystemDesign-LLD-HLD.git
 cd SystemDesign-LLD-HLD
-git checkout introduction-to-LLD
+git checkout introduction-to-LLD   # or design-patterns
 ```
 
 ## How to read this repo
