@@ -21,7 +21,8 @@ forgot everything else — then the explanation, then a concrete example.
 Chapter READMEs carry a **skim cheat sheet** so you can revise a whole topic in
 two minutes the night before an interview.
 
-Code examples are in **Python**.
+Code examples are **Python** on `introduction-to-LLD` and **Java** on `design-patterns`
+(the language each branch's material is normally taught in).
 
 ## The two altitudes, in one line
 
